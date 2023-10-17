@@ -13,6 +13,8 @@
         <Label Content="Año de Desarrollo" HorizontalAlignment="Left" Margin="135,192,0,0" VerticalAlignment="Top" Height="33" Width="161" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Consolas"/>
         <Label Content="Marcelo Geraldo" HorizontalAlignment="Left" Margin="342,151,0,0" VerticalAlignment="Top" Height="33" Width="161" FontSize="16" FontFamily="Consolas" Foreground="#FF63C319"/>
         <Label Content="2023" HorizontalAlignment="Left" Margin="342,192,0,0" VerticalAlignment="Top" Height="33" Width="161" FontSize="16" FontFamily="Consolas" Foreground="#FF63C319"/>
+        <Label Content="Repositorio" HorizontalAlignment="Left" Margin="135,230,0,0" VerticalAlignment="Top" Height="33" Width="161" FontSize="16" FontFamily="Consolas"/>
+        <Label Content="https://github.com/marcelogeraldo11/Equipos_de_Futbol" HorizontalAlignment="Left" Margin="272,230,0,0" VerticalAlignment="Top" Height="33" Width="470" FontSize="16" FontFamily="Consolas" Foreground="#FF63C319"/>
 
     </Grid>
 </Page>
